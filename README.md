@@ -20,7 +20,7 @@ Run the program simulated using Keil uVision5
 
 ## Authors
 @[Mohab021](https://github.com/Mohab021)  
-@[Embedded Systems Professional by egFWD](https://egfwd.com/specializtion/professional-embedded-systems/)
+@[Advanced Embedded Systems by egFWD](https://egfwd.com/specializtion/advanced-embedded-systems/)
 
 ## Version History
 - 0.1
